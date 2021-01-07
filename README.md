@@ -13,8 +13,7 @@ Many of them get rejected for many reasons, like high loan balances, low income 
 In this project, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
 
 # Skills 
-* Data manipulation
-* Data Visualization
-* Importing and Cleaning Data
-* Probability & Statistics
-* Case Studies
+* Importing & Cleaning Data
+* Data Manipulation
+* Machine Learning
+* Applied Finance
